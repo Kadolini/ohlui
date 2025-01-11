@@ -40,7 +40,7 @@ body {
 .background-image {
   position: absolute;
   inset: 0;
-  background-image: url('../public//background.png'); /* Remplacez avec votre image */
+  background-image: url('../public//background.png');
   background-size: cover;
   background-position: center;
   filter: brightness(90%);
