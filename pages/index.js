@@ -250,7 +250,7 @@ class Home extends React.Component {
         <div className="background-container">
           <div ref="scene" className="background-image" />
           <h1 className="text pointer-events-none text-[4rem] md:text-[6rem] absolute bottom-[65%] left-[18%]">
-            $LUIGGA:
+            $LUIGGA
           </h1>
           <h2 className="text pointer-events-none text-[3rem] md:text-[3rem] absolute bottom-[33%] left-[75%]">
             PUMP IT !!
